@@ -9,7 +9,7 @@
 
 # Info del Programa "Gestión de Farmacia"
 
-Codigo para Ejecutar: "g++ -o farmacia main.cpp Producto.cpp Cliente.cpp Venta.cpp Farmacia.cpp"
+Codigo para Ejecutar(Dentro de la carpeta "Programa_Farmacia"): "g++ -o farmacia main.cpp Producto.cpp Cliente.cpp Venta.cpp Farmacia.cpp"
 Versión del Compilador utilizado "g++ (MinGW.org GCC-6.3.0-1) 6.3.0"
 
 ## Productos
