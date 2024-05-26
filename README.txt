@@ -14,6 +14,7 @@ Codigo para Ejecutar: "g++ -o farmacia main.cpp Producto.cpp Cliente.cpp Venta.c
 ## Productos
 
 Info de los productos cargados en el inventario al iniciar el programa.
+## Para editar los productos, se pueden agregar a "bodega.txt" con el siguiente formato: ID,NOMBRE,CATEGORÍA,SUBCATEGORÍA,CANTIDAD,PRECIO
 
 ### Ejemplo:
 ID: 1
